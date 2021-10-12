@@ -1,6 +1,6 @@
 Software Engineer & validator for the Harmony ONE blockchain. 
 
-🌱 @validityone, Bucky
+🌱 @validityone
 
 <!---
 validityone/validityone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
